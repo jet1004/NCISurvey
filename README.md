@@ -155,4 +155,4 @@ This is an open collaborative research project among:
 
 ## Star History 🌟
 
-[![Star History Chart](https://api.star-history.com/svg?repos=QiushiSun/NCISurvey&type=Date)](https://star-history.com/#QiushiSun/NCISurvey&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=QiushiSun/Awesome-Code-Intelligence&type=Date)](https://star-history.com/#QiushiSun/Awesome-Code-Intelligence&Date)
