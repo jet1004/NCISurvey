@@ -1,5 +1,11 @@
 ## Paper Collection for Code Intelligence x AI4Science Research
 
+### Interdisciplinary
+
+1. [NeurIPS2024] **SciCode: A Research Coding Benchmark Curated by Scientists** [![arXiv](https://img.shields.io/badge/arXiv-2407.13168-b31b1b.svg)](https://arxiv.org/abs/2407.13168), 2024.7
+
+   *Trieu H. Trinh, Yuhuai Wu, Quoc V. Le, He He, Thang Luong*
+
 ### Mathematics
 
 1. [Nature Articles] **Solving olympiad geometry without human demonstrations** [link](https://www.nature.com/articles/s41586-023-06747-5), 2024.01

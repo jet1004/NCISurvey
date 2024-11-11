@@ -4,6 +4,10 @@
 
 ### Decoder-Only
 
+1. [Preprint] **OpenCoder: The Open Cookbook for Top-Tier Code Large Language Models** [[Website]](https://opencoder-llm.github.io/) [![arXiv](https://img.shields.io/badge/arXiv-2411.04905-b31b1b.svg)](https://arxiv.org/abs/2411.04905), 2024.11
+
+   *aiXcoder Contributors*
+
 1. [Preprint] **aiXcoder** [[Website]](https://github.com/aixcoder-plugin/aiXcoder-7B)
 
    *aiXcoder Contributors*

@@ -58,12 +58,16 @@ Introducing the resources provided by our survey paper.
 </details>
 
 
-## Recent Work on NCI (Welcome PR) 📗
+## Recent Work on Code Intelligence (Welcome PR) 📗
 
-- [Interactive Evolution: A Neural-Symbolic Self-Training Framework For Large Language Models](https://arxiv.org/abs/2406.11736) 2024.06
+- [OpenCoder: The Open Cookbook for Top-Tier Code Large Language Models](https://opencoder-llm.github.io/) 2024.11
+- [RLEF: Grounding Code LLMs in Execution Feedback with Reinforcement Learning](https://huggingface.co/papers/2410.02089) 2024.10
+- [To Code, or Not To Code? Exploring Impact of Code in Pre-training](https://arxiv.org/abs/2408.10914) 2024.08
+  
+<!-- - [Interactive Evolution: A Neural-Symbolic Self-Training Framework For Large Language Models](https://arxiv.org/abs/2406.11736) 2024.06
 - [Symbolic Learning Enables Self-Evolving Agents](https://arxiv.org/pdf/2406.18532v1) 2024.06
 - [aiXcoder](https://huggingface.co/aiXcoder/aixcoder-7b-base) 2024.04
-- [Making Language Models Better Tool Learners with Execution Feedback](https://arxiv.org/abs/2305.13068) 2024.03
+- [Making Language Models Better Tool Learners with Execution Feedback](https://arxiv.org/abs/2305.13068) 2024.03 -->
 
 
 ## Paper Collections / Tutorials 📚
