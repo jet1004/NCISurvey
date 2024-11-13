@@ -4,6 +4,8 @@
 
 ### Decoder-Only
 
+1. [Preprint] **Qwen2.5-Coder Series: Powerful, Diverse, Practical.** [[Website]](https://github.com/QwenLM/Qwen2.5-Coder), 2024.11
+
 1. [Preprint] **OpenCoder: The Open Cookbook for Top-Tier Code Large Language Models** [[Website]](https://opencoder-llm.github.io/) [![arXiv](https://img.shields.io/badge/arXiv-2411.04905-b31b1b.svg)](https://arxiv.org/abs/2411.04905), 2024.11
 
    *aiXcoder Contributors*
