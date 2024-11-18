@@ -10,7 +10,11 @@
 
    *aiXcoder Contributors*
 
-1. [Preprint] **aiXcoder** [[Website]](https://github.com/aixcoder-plugin/aiXcoder-7B)
+2. [[COLM2024]](https://openreview.net/forum?id=kWnlCVcp6o#discussion) **Crystal: Illuminating LLM Abilities on Language and Code** [![arXiv](https://img.shields.io/badge/arXiv-2411.04156-b31b1b.svg)](https://arxiv.org/abs/2411.04156), 2024.10
+
+   *aiXcoder Contributors*
+
+3. [Preprint] **aiXcoder** [[Website]](https://github.com/aixcoder-plugin/aiXcoder-7B)
 
    *aiXcoder Contributors*
 
