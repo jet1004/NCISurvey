@@ -2,7 +2,7 @@
 
 ![codelms](../assets/codelms-tree.png)
 
-### Decoder-Only
+### CodeLLMs / Decoder-Only
 
 1. [Preprint] **Qwen2.5-Coder Series: Powerful, Diverse, Practical.** [[Website]](https://github.com/QwenLM/Qwen2.5-Coder), 2024.11
 
