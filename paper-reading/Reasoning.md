@@ -1,10 +1,14 @@
 ## Paper Collection for Reasoning with Code Synthesis
 
-1. [Preprint] **Interactive Evolution: A Neural-Symbolic Self-Training Framework For Large Language Models** [![arXiv](https://img.shields.io/badge/arXiv-2406.11736-b31b1b.svg)](https://arxiv.org/abs/2406.11736), 2024.06
+1. [[NeurIPS 2024]](https://openreview.net/forum?id=mMnL0n7Cwy#discussion) **Can Large Language Models Analyze Graphs like Professionals? A Benchmark, Datasets and Models** [![arXiv](https://img.shields.io/badge/arXiv-2409.19667-b31b1b.svg)](https://arxiv.org/abs/2409.19667), 2024.09
+
+   *Xin Li, Weize Chen, Qizhi Chu, Haopeng Li, Zhaojun Sun, Ran Li, Chen Qian, Yiwei Wei, Zhiyuan Liu, Chuan Shi, Maosong Sun, Cheng Yang*
+
+2. [Preprint] **Interactive Evolution: A Neural-Symbolic Self-Training Framework For Large Language Models** [![arXiv](https://img.shields.io/badge/arXiv-2406.11736-b31b1b.svg)](https://arxiv.org/abs/2406.11736), 2024.06
 
    *Fangzhi Xu, Qiushi Sun, Kanzhi Cheng, Jun Liu, Yu Qiao, Zhiyong Wu*
 
-1. [[FMDM@NeurIPS2023]](https://openreview.net/pdf?id=tlRUbI0Yf3) **Chain of Code: Reasoning with a Language Model-Augmented Code Emulator** [![arXiv](https://img.shields.io/badge/arXiv-2312.04474-b31b1b.svg)](https://arxiv.org/abs/2312.04474), 2023.12
+3. [[FMDM@NeurIPS2023]](https://openreview.net/pdf?id=tlRUbI0Yf3) **Chain of Code: Reasoning with a Language Model-Augmented Code Emulator** [![arXiv](https://img.shields.io/badge/arXiv-2312.04474-b31b1b.svg)](https://arxiv.org/abs/2312.04474), 2023.12
 
    *Chengshu Li, Jacky Liang, Andy Zeng, Xinyun Chen, Karol Hausman, Dorsa Sadigh, Sergey Levine, Li Fei-Fei, Fei Xia, Brian Ichter*
 

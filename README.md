@@ -17,6 +17,7 @@ This is the repository of our paper: **A Survey of Neural Code Intelligence: Par
 *Please do not hesitate to contact us or launch pull requests if you find any related papers that are missing in our paper.*
 
 ## News 📰
+- Update on 2024/11/01: Version 1.4 released with extra paper collections 📖
 - Update on 2024/06/23: Version 1.2 released 🚀
 - Update on 2024/03/19: Version 1.0 released 🚀
 - Update on 2024/01/19: Add multiple reading lists 📖
@@ -60,6 +61,7 @@ Introducing the resources provided by our survey paper.
 
 ## Recent Work on Code Intelligence (Welcome PR) 📗
 
+- [FullStack Bench: Evaluating LLMs as Full Stack Coders](https://arxiv.org/abs/2412.00535) 2024.12
 - [CodeDPO: Aligning Code Models with Self Generated and Verified Source Code](https://arxiv.org/abs/2410.05605) 2024.11
 - [OpenCoder: The Open Cookbook for Top-Tier Code Large Language Models](https://opencoder-llm.github.io/) 2024.11
 - [Qwen2.5-Coder Series: Powerful, Diverse, Practical.](https://github.com/QwenLM/Qwen2.5-Coder) 2024.11
@@ -76,6 +78,7 @@ Introducing the resources provided by our survey paper.
 
 - [Language Models for Code](https://github.com/QiushiSun/NCISurvey/blob/main/paper-reading/CodeLMs.md) 🤖
 - [Evaluations and Benchmarks](https://github.com/QiushiSun/NCISurvey/blob/main/paper-reading/Benchmarks.md) 📊 
+- [Preference Optimization](https://github.com/QiushiSun/NCISurvey/blob/main/paper-reading/Preference-Optimization.md) 🍎
 - [Code Repair](https://github.com/QiushiSun/NCISurvey/blob/main/paper-reading/Repair.md) 🔧
 - [Reasoning with Code Synthesis](https://github.com/QiushiSun/NCISurvey/blob/main/paper-reading/Reasoning.md) 🧠
 - [Data Science](https://github.com/QiushiSun/NCISurvey/blob/main/paper-reading/DS.md) 🔢
