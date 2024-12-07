@@ -39,7 +39,7 @@
 
 10. [NeurIPS'24] **Web2Code: A Large-scale Webpage-to-Code Dataset and Evaluation Framework for Multimodal LLMs.** [![arXiv](https://img.shields.io/badge/arXiv-2406.20098-b31b1b.svg)](https://arxiv.org/abs/2406.20098), 2024.06
 
-   *Sukmin Yun, Haokun Lin, Rusiru Thushara, Mohammad Qazim Bhat, Yongxin Wang, Zutao Jiang, Mingkai Deng, Jinhong Wang, Tianhua Tao, Junbo Li, Haonan Li, Preslav Nakov, Timothy Baldwin, Zhengzhong Liu, Eric P. Xing, Xiaodan Liang, Zhiqiang Shen*
+    *Sukmin Yun, Haokun Lin, Rusiru Thushara, Mohammad Qazim Bhat, Yongxin Wang, Zutao Jiang, Mingkai Deng, Jinhong Wang, Tianhua Tao, Junbo Li, Haonan Li, Preslav Nakov, Timothy Baldwin, Zhengzhong Liu, Eric P. Xing, Xiaodan Liang, Zhiqiang Shen*
 
 11. [Preprint] **Automatically Generating UI Code from Screenshot: A Divide-and-Conquer-Based Approach.** [![arXiv](https://img.shields.io/badge/arXiv-2406.16386-b31b1b.svg)](https://arxiv.org/abs/2406.16386), 2024.06
 
