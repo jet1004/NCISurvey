@@ -1,5 +1,9 @@
 ## Paper Collection for Code-related Evaluation and Benchmarks
 
+1. [Preprint] **Commit0: Library Generation from Scratch.** [![arXiv](https://img.shields.io/badge/arXiv-2412.01769-b31b1b.svg)](https://arxiv.org/abs/2412.01769), 2024.12
+
+   *Wenting Zhao, Nan Jiang, Celine Lee, Justin T Chiu, Claire Cardie, Matthias Gallé, Alexander M Rush*
+
 1. [Preprint] **FullStack Bench: Evaluating LLMs as Full Stack Coders.** [![arXiv](https://img.shields.io/badge/arXiv-2412.00535-b31b1b.svg)](https://arxiv.org/abs/2412.00535), 2024.12
 
    *Siyao Liu, He Zhu, Jerry Liu, Shulin Xin, Aoyan Li, Rui Long, Li Chen, Jack Yang, Jinxiang Xia, Z.Y. Peng, Shukai Liu, Zhaoxiang Zhang, Jing Mai, Ge Zhang, Wenhao Huang, Kai Shen, Liang Xiang*
