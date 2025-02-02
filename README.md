@@ -17,6 +17,7 @@ This is the repository of our paper: **A Survey of Neural Code Intelligence: Par
 *Please do not hesitate to contact us or launch pull requests if you find any related papers that are missing in our paper.*
 
 ## News 📰
+- Update on 2025/01/26: Version 1.6 released with additional topics on code preference learning 📖
 - Update on 2024/11/01: Version 1.4 released with extra paper collections 📖
 - Update on 2024/06/23: Version 1.2 released 🚀
 - Update on 2024/03/19: Version 1.0 released 🚀
