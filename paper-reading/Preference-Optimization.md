@@ -1,6 +1,15 @@
 ## Paper Collection for Preference Optimization
 
 
+
+1. [Preprint] **IterPref: Focal Preference Learning for Code Generation via Iterative Debugging.** [![arXiv](https://img.shields.io/badge/arXiv-2503.02783-b31b1b.svg)](https://arxiv.org/abs/2503.02783), 2025.03
+
+   *Jie Wu, Haoling Li, Xin Zhang, Jianwen Luo, Yangyu Huang, Ruihang Chu, Yujiu Yang, Scarlett Li*
+
+1. [Preprint] **Learning to Solve and Verify: A Self-Play Framework for Code and Test Generation.** [![arXiv](https://img.shields.io/badge/arXiv-2502.14948-b31b1b.svg)](https://arxiv.org/abs/2502.14948), 2025.02
+
+   *Zi Lin, Sheng Shen, Jingbo Shang, Jason Weston, Yixin Nie*
+
 1. [Preprint] **DSTC: Direct Preference Learning with Only Self-Generated Tests and Code to Improve Code LMs.** [![arXiv](https://img.shields.io/badge/arXiv-2411.13611-b31b1b.svg)](https://arxiv.org/abs/2411.13611), 2024.11
 
    *Zhihan Liu, Shenao Zhang, Zhaoran Wang*
