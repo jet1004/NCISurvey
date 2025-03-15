@@ -17,14 +17,10 @@ This folder contains the source files of the figures in our paper: **A Survey of
 We build an evolutionary tree of CodeLMs to trace the development of code intelligence in recent years and highlight some of the most well-known models. You are free to use this figure for research, educational, knowledge-sharing, and domain background introduction purposes (just don't forget to cite us!🫶). We welcome pull requests to refine this figure!
 
 ```bibtex
-@misc{sun2024ncisurvey,
-  title         = {A Survey of Neural Code Intelligence: Paradigms, Advances and Beyond},
-  author        = {Qiushi Sun and Zhirui Chen and Fangzhi Xu and Kanzhi Cheng and Chang Ma and 
-                   Zhangyue Yin and Jianing Wang and Chengcheng Han and Renyu Zhu and Shuai Yuan 
-                   and Qipeng Guo and Xipeng Qiu and Pengcheng Yin and Xiaoli Li and Fei Yuan and
-                   Lingpeng Kong and Xiang Li and Zhiyong Wu},
-  eprint        = {2403.14734},
-  archivePrefix = {arXiv},
-  year          = {2024}
+@article{sun2024survey,
+  title={A survey of neural code intelligence: Paradigms, advances and beyond},
+  author={Sun, Qiushi and Chen, Zhirui and Xu, Fangzhi and Cheng, Kanzhi and Ma, Chang and Yin, Zhangyue and Wang, Jianing and Han, Chengcheng and Zhu, Renyu and Yuan, Shuai and others},
+  journal={arXiv preprint arXiv:2403.14734},
+  year={2024}
 }
 ```
