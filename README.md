@@ -29,7 +29,6 @@ This is the repository of our paper: **A Survey of Neural Code Intelligence: Par
 
 📃 [**A Survey of Neural Code Intelligence: Paradigms, Advances and Beyond**](https://arxiv.org/abs/2403.14734) 
 >
-
 > [Qiushi Sun](https://qiushisun.github.io/),
 [Zhirui Chen](https://github.com/jet1004),
 [Fangzhi Xu](https://xufangzhi.github.io/),
@@ -49,7 +48,7 @@ This is the repository of our paper: **A Survey of Neural Code Intelligence: Par
 [Xiang Li](https://lixiang3776.github.io/), 
 [Zhiyong Wu](https://lividwo.github.io/zywu.github.io/)
 
-Introducing the resources provided by our survey paper.
+Introducing the resources provided by our survey paper, slides is also available at [here](assets/NCI_Survey_Slides_V1.pdf).
 
 ## Timeline
 
