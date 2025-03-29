@@ -113,12 +113,15 @@ Introducing the resources provided by our survey paper, slides is also available
 ```
 ## Table of Contents
 
-1. [Language Models for Code](#2-models)
-   2.1 [CodeLLMs / Decoder-Only](#21-base-llms-and-pretraining-strategies)
+1. [Language Models for Code](#CodeLMs)
+   - [CodeLLMs / Decoder-Only](#CodeLLMs)
+   - [Encoder-Decoder](#enc-dec)
+   - [Encoder-Only](#enc)
+   - [Others](#others)
 
-## Language Models for Code <a id="2-models"></a>
+## Language Models for Code <a id="CodeLMs"></a>
 
-### CodeLLMs / Decoder-Only <a id="21-base-llms-and-pretraining-strategies"></a>
+### CodeLLMs / Decoder-Only <a id="CodeLLMs"></a>
 
 1. [Preprint] **Qwen2.5-Coder Series: Powerful, Diverse, Practical.** [[Website]](https://github.com/QwenLM/Qwen2.5-Coder), 2024.11
 
@@ -250,7 +253,7 @@ Introducing the resources provided by our survey paper, slides is also available
 
     *Alexey Svyatkovskiy, Shao Kun Deng, Shengyu Fu, Neel Sundaresan*   
 
-### Encoder-Decoder
+### Encoder-Decoder <a id="enc-dec"></a>
 
 1. [[EMNLP2023]](https://aclanthology.org/2023.emnlp-main.68/) **CodeT5+: Open Code Large Language Models for Code Understanding and Generation.** [![arXiv](https://img.shields.io/badge/arXiv-2305.07922-b31b1b.svg)](https://arxiv.org/abs/2305.07922), 2023.05
 
@@ -288,7 +291,7 @@ Introducing the resources provided by our survey paper, slides is also available
 
    *Wasi Uddin Ahmad, Saikat Chakraborty, Baishakhi Ray, Kai-Wei Chang* 
 
-### Encoder-Only
+### Encoder-Only <a id="enc"></a>
 
 1. [Preprint] **SynCoBERT: Syntax-Guided Multi-Modal Contrastive Pre-Training for Code Representation.** [![arXiv](https://img.shields.io/badge/arXiv-2108.04556-b31b1b.svg)](https://arxiv.org/abs/2108.04556), 2021.08
 
@@ -315,7 +318,7 @@ Introducing the resources provided by our survey paper, slides is also available
    *Aditya Kanade, Petros Maniatis, Gogul Balakrishnan, Kensen Shi* 
 
 
-## Others
+## Others <a id="others"></a>
 
 1. [[EMNLP2023]](https://aclanthology.org/2023.emnlp-main.716/) **CodeFusion: A Pre-trained Diffusion Model for Code Generation.** [![arXiv](https://img.shields.io/badge/arXiv-2310.17680-b31b1b.svg)](https://arxiv.org/abs/2310.17680), 2023.10
 
