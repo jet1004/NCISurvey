@@ -113,10 +113,10 @@ Introducing the resources provided by our survey paper, slides is also available
 ```
 ## Table of Contents
 
-1. [Language Models for Code](#1-surveys)
+1. [Language Models for Code](#CodeLMs)
 
 
-## Language Models for Code
+## Language Models for Code{#CodeLMs}
 
 ### CodeLLMs / Decoder-Only
 
