@@ -113,12 +113,12 @@ Introducing the resources provided by our survey paper, slides is also available
 ```
 ## Table of Contents
 
-1. [Language Models for Code](#CodeLMs)
+1. [Language Models for Code](#2-models)
+   2.1 [CodeLLMs / Decoder-Only](#21-base-llms-and-pretraining-strategies)
 
+## Language Models for Code <a id="2-models"></a>
 
-## Language Models for Code{#CodeLMs}
-
-### CodeLLMs / Decoder-Only
+### CodeLLMs / Decoder-Only <a id="21-base-llms-and-pretraining-strategies"></a>
 
 1. [Preprint] **Qwen2.5-Coder Series: Powerful, Diverse, Practical.** [[Website]](https://github.com/QwenLM/Qwen2.5-Coder), 2024.11
 
